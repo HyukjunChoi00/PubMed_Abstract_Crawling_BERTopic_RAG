@@ -8,3 +8,7 @@
 - Hybrid Retriever (BM25 + FAISS)
 - Reranker
 - OpenAI Embedding Model
+
+논문 링크
+PubMed 초록 데이터 기반 BERTopic과 대규모 언어모델을 활용한 약물전달시스템 연구동향 분석
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12015527
