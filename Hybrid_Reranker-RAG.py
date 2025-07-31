@@ -88,3 +88,4 @@ retrieval_chain.invoke({"input": query})
 
 
 ## Prompt 부분 수정 필요
+#prompt = PromptTemplate(input_variables=["context"], template=template)
