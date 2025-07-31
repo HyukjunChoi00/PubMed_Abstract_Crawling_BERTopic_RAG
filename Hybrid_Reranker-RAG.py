@@ -85,3 +85,6 @@ combine_docs_chain = create_stuff_documents_chain(
 retrieval_chain = create_retrieval_chain(compression_retriever, combine_docs_chain)
 query="Cancer therapy strategies"
 retrieval_chain.invoke({"input": query})
+
+
+## Prompt 부분 수정 필요
